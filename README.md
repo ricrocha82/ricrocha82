@@ -24,7 +24,7 @@
 <en>
 
 <details open>
- <summary><b> Github Stats & Programming Languages Agnostic or Not:</b> </summary>  
+ <summary><b> Github Stats & Programming Languages:</b> </summary>  
 
 <en>
 

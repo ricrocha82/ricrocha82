@@ -1,6 +1,6 @@
 # Hi, I'm Ricardo 👋🧬
 
-[![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=linkedin.com/in/ricardorochaps)](linkedin.com/in/ricardorochaps)
+[![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ricardorochaps)](https://linkedin.com/in/ricardorochaps)
 [![Twitter Badge](https://img.shields.io/badge/-@ricrocha82-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricrocha82)](https://twitter.com/ricrocha82)
 [![GitHub Badge](https://img.shields.io/github/followers/ricrocha82?style=social)](https://github.com/ricrocha82)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Ricardo-Silva-80)

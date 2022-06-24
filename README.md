@@ -8,6 +8,7 @@
 - Open Source enthusiast
 - Currently working as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br)
 
+
 </details>
 
 <en>
@@ -18,7 +19,7 @@
 <en>
 
 <p align = "left">
- <img src = "https://github-readme-stats.vercel.app/api?username=Kur1sutaru&show_icons=true&theme=">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kur1sutaru&theme=&show_icons=true&hide_border=true" />
+ <img src = "https://github-readme-stats.vercel.app/api?username=ricrocha82&show_icons=true&theme=">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricrocha82&theme=&show_icons=true&hide_border=true" />
 </p>
-<br/>
+<en/>

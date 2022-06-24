@@ -7,7 +7,7 @@
 
 ### Welcome to my GitHub profile
 - I am a Ph.D. student @ [UTAS](https://www.utas.edu.au) and @ [IMAS](https://www.imas.utas.edu.au). 
-- My project aims to unveil the distribution and composition of the microbial community of the [Macquarie Harbour](https://greataustraliansecret.com/tasmania/west-coast-tasmania/macquarie-harbour/)
+- My project aims to unveil the microbial community ecology of the [Macquarie Harbour](https://greataustraliansecret.com/tasmania/west-coast-tasmania/macquarie-harbour/) using molecular and bioinformatics tools
 - M.Sc. in Animal Biology @ [UnB](https://www.unb.br)
 - Currently working as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br)
 - Experience with next generation seq data analysis

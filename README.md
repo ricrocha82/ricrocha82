@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile 👋
 
-- My name is Ricardo. I am a Ph.D. at the [University of Tasmania](https:\\www.utas.edu.au).
+- My name is Ricardo. I am a Ph.D. at the [University of Tasmania](https://www.utas.edu.au) working at the [Institute for Marie and Antarctic Studies](https://www.imas.utas.edu.au). 
 
 <!--
 **ricrocha82/ricrocha82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

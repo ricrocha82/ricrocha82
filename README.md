@@ -10,7 +10,7 @@
 - My project aims to unveil the microbial community ecology of the [Macquarie Harbour](https://greataustraliansecret.com/tasmania/west-coast-tasmania/macquarie-harbour/) using molecular and bioinformatics tools
 - M.Sc. in Animal Biology @ [UnB](https://www.unb.br)
 - Currently working as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br)
-- And as consultant @ [IMAS](https://www.imas.utas.edu.au) and @ [Virus Lab](http://u.osu.edu/viruslab/) a.k.a The Sullivan Lab.
+- And as a consultant @ [IMAS](https://www.imas.utas.edu.au) and @ [Virus Lab](http://u.osu.edu/viruslab/) a.k.a The Sullivan Lab.
 - Experience with next generation seq data analysis
 - Bioinformatics Padawan
 - Open Source enthusiast

@@ -6,13 +6,13 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Ricardo-Silva-80)
 
 ### Welcome to my GitHub profile
-- I am a Ph.D. student @ [UTAS](https://www.utas.edu.au) and @ [IMAS](https://www.imas.utas.edu.au). 
-- My project aims to unveil the microbial community ecology of the [Macquarie Harbour](https://greataustraliansecret.com/tasmania/west-coast-tasmania/macquarie-harbour/) using molecular and bioinformatics tools
+- Ph.D. @ [UTAS](https://www.utas.edu.au) and @ [IMAS](https://www.imas.utas.edu.au). 
+- My Ph.D. project aimed to unveil the microbial community ecology of the [Macquarie Harbour](https://greataustraliansecret.com/tasmania/west-coast-tasmania/macquarie-harbour/) using molecular and bioinformatics tools
 - M.Sc. in Animal Biology @ [UnB](https://www.unb.br)
 - Currently working as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br)
 - And as a consultant @ [IMAS](https://www.imas.utas.edu.au) and @ [Virus Lab](http://u.osu.edu/viruslab/) a.k.a The Sullivan Lab.
-- Experience with next generation seq data analysis
-- Bioinformatics Padawan
+- Bioinformatics
+- Data analysis
 - Open Source enthusiast
 
 

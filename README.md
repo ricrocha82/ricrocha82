@@ -10,7 +10,7 @@
 ### Brief CV
 - Ph.D. @ [UTAS](https://www.utas.edu.au) and @ [IMAS](https://www.imas.utas.edu.au) (microbial ecology, bioinformatics and data analysis)
 - M.Sc. in Animal Biology @ [UnB](https://www.unb.br) (ecogenotoxicity, cyanobacteria, fish)
-- Currently working as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br) (climate change)
+- Currently working as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br) (climate change policy)
 - Work as a research consultant @ [IMAS](https://www.imas.utas.edu.au) and @ [Virus Lab](http://u.osu.edu/viruslab/) a.k.a The Sullivan Lab doing bioinformatics and data analysis (microbial ecology)
 
 ### Interests

@@ -9,8 +9,8 @@
 
 ### Brief CV
 - Ph.D. @ [UTAS](https://www.utas.edu.au) and @ [IMAS](https://www.imas.utas.edu.au) (microbial ecology, bioinformatics and data analysis)
-- M.Sc. in Animal Biology @ [UnB](https://www.unb.br) (ecogenotoxicity, cyanobacteria, fish)
-- Currently working as a research scholar @ [Virus Lab](http://u.osu.edu/viruslab/) and as a research consultant @ [IMAS](https://www.imas.utas.edu.au) doing bioinformatics and data analysis (microbial ecology)
+- MBA in Data Science and Analytics @ [USP/Esalq]([https://www.unb.br](https://blog.mbauspesalq.com/en/category/mba-usp-esalq-en/data-science-and-analytics/))
+- Currently working as a research scholar @ [Virus Lab](http://u.osu.edu/viruslab/) and as a research consultant @ [IMAS](https://www.imas.utas.edu.au) doing bioinformatics and data analysis
 - Worked as a Science, Technology and Innovation Analyst @ [MCTI](https://www.gov.br/mcti/pt-br) (climate change policy)
 
 ### Interests
